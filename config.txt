@@ -10,7 +10,6 @@
 "user": ["ouAXl60YVc8Tda2KsZrK8ebRdKgY","ouAXl6yRnbZdq771yxfe4j_rjtR8"],
 
 # 信息配置
-"weather_key": "36de3121a43341a8a5d4c0f686eacf6f",
 # 所在省份
 "province": "上海",
 # 所在城市
