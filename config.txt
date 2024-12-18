@@ -12,9 +12,9 @@
 # 信息配置
 "weather_key": "36de3121a43341a8a5d4c0f686eacf6f",
 # 所在省份
-"province": "浙江",
+"province": "浙江省",
 # 所在城市
-"city": "西湖",
+"city": "西湖市",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
 "birthday1": {"name": "淇哥", "birthday": "r2005-04-26"},
 "birthday2": {"name": "蛋蛋", "birthday": "r2004-10-20"},
